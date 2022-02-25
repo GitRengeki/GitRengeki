@@ -1,65 +1,8 @@
-<<<<<<< HEAD
-
 
 #👋😊😁 Hello There! 😁😊👋
-
 I am a Student Developer from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.
 
 ##Language Proficiency
-
-=======
-<!-- MD STYLING -->
-<!-- <style>
-  h1, h2{
-    font-size: 30px;
-    color: #12ed6d;
-    text-align: center
-  }
-
-  h2{
-    font-size: 24px;
-  }
-
-  #art{
-    width: 10rem;
-    margin: 0 auto 10px;
-    display: block;
-    border-radius: .5rem;
-  }
-
-  p{
-    text-align: justify;
-  }
-
-  p #SD{
-    color: #12ed6d;
-  }
-
-  .lp, .sp{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-direction: row; /* Null Handling */
-  }
-
-  .sp img{
-    width: 15rem;
-  }
-
-</style> -->
-
-<!-- MD BODY -->
-
-<h1>👋😊😁 Hello There! 😁😊👋</h1> 
-
-<img src='art4.png' alt='My Art Form' id='art'/>
-<br>
-<p>I am a <span id='SD'>Student Developer</span> from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.</p>
-<hr>
-<br>
-<h2>Language Proficiency<h2>
-<div class='lp'>
->>>>>>> 5237741ff0f5e9f5a4132d09b4ee2fa2f72a7430
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -85,14 +28,6 @@ I am a Student Developer from the Philippines. I am still learning some fundamen
 
 
 ##Published Project
-
 <a href="https://top.gg/bot/899823453383852092">
   <img src="https://top.gg/api/widget/899823453383852092.svg">
-<<<<<<< HEAD
 </a>
-=======
-</a>
-</div>
-
-<!-- <span style='color: #f0db4f'>Javascript</span> <span style='color: #787CB5'>PHP</span> -->
->>>>>>> 5237741ff0f5e9f5a4132d09b4ee2fa2f72a7430
