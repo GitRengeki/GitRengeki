@@ -1,7 +1,4 @@
-
-
 # 👋😊😁 Hello There! 😁😊👋
-
 I am a Student Developer from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.
 
 ## Language Proficiency
@@ -14,6 +11,7 @@ I am a Student Developer from the Philippines. I am still learning some fundamen
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Libraries and Frameworks
+
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
