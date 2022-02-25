@@ -1,5 +1,5 @@
 <!-- MD STYLING -->
-<style>
+<!-- <style>
   h1, h2{
     font-size: 30px;
     color: #12ed6d;
@@ -36,7 +36,7 @@
     width: 15rem;
   }
 
-</style>
+</style> -->
 
 <!-- MD BODY -->
 
