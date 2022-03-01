@@ -3,7 +3,7 @@
 
 
 # Hi! I'm GitRengeki👋😊 
-[<img align='center' alt='rengekis discord' width='33px' src='./linkedin.svg'>](https://www.linkedin.com/in/joe-marvin-taba%C3%B1era-8689691b0/)
+[<img align='center' alt='rengekis discord' width='33px' src='linkedin.svg'>](https://www.linkedin.com/in/joe-marvin-taba%C3%B1era-8689691b0/)
 
 
 I am a Student Developer from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.
