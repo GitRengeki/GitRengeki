@@ -1,10 +1,6 @@
-
-
-
-
 # Hi! I'm GitRengeki👋😊 
-[<img align='center' alt='rengekis discord' width='33px' src='./linkedin.svg'>](https://www.linkedin.com/in/joe-marvin-taba%C3%B1era-8689691b0/)
 
+[I'm not forcing you to see my linkedIn profile](https://www.linkedin.com/in/joe-marvin-taba%C3%B1era-8689691b0/) 
 
 I am a Student Developer from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.
 
@@ -25,3 +21,5 @@ I am a Student Developer from the Philippines. I am still learning some fundamen
 ![discordpy](https://img.shields.io/badge/discordpy-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrengeki&hide=procfile&langs_count=1&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
