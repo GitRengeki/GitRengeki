@@ -17,8 +17,9 @@ I am a Student Developer from the Philippines. I am still learning some fundamen
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![discordpy](https://img.shields.io/badge/discordpy-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrengeki&hide=procfile&langs_count=1&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
