@@ -1,4 +1,4 @@
-# Hi! I'm GitRengeki👋😊 
+# Hi! I'm Rengeki 
 
 I am a Student Developer from the Philippines. I am still learning some fundamentals of programming. I made this github profile for showcasing some projects in the future and connecting with different student developers out there.
 
